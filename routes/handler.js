@@ -60,9 +60,9 @@ function handleHome(request, response) {
 
 // endpoint do rejestracji: POST /register
 // payload: {
-//  email: "dupajasia@wp.pl",
+//  email: "annanowak@wp.pl",
 //  password: "lalal1",
-//  passwordRepeat: "lala1",
+//  passwordRepeat: "lalal1",
 //  sex: "female"
 // }
 
@@ -128,7 +128,7 @@ function handleRegister(request, response) {
 
 // endpoint do logowania: POST /login
 // payload: {
-//  email: "dupajasia@wp.pl",
+//  email: "annanowak@wp.pl",
 //  password: "lalal1",
 // }
 
